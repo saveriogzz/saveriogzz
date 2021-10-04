@@ -7,9 +7,11 @@ So far I've received **1** stars ⭐.
 
 I ❤️ open source. In fact, I've been contributing to **24** public repositories!
 
-Top 8 most used languages across your repositories:
 
 <!---
+Top 8 most used languages across your repositories:
+
+
 ![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B187.9%25)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B110%25)
 ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B10.6%25)
