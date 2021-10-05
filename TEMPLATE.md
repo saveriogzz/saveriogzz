@@ -1,6 +1,12 @@
 ### Hi there 👋 I'm Saverio!
 
 
+I'm a data engineer from Italy 🇮🇹
+
+I currently work at [Delft University of Technology](https://www.tudelft.nl/en/) 🇳🇱.  
+I'm currently dedicating my time to a climate science project, involving SQL and NoSQL databases, Docker, Kubernetes, real-time data streaming platforms and ETL tools.
+
+
 I've opened this GitHub account **{{ ACCOUNT_AGE }}** years ago.  
 Since then, I've pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests and reviewed **{{ CODE_REVIEWS }}** pull requests!  
 So far I've received **{{ STARS }}** stars ⭐.
