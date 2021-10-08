@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Saverio!
 
 
-I'm a software developer from Italy 🇮🇹 with a heavy focus on data. Some say I should be defined as a "data engineer" but even I don't know anymore, all those LinkedIn influencers keep confusing me.  
+I'm a software developer from Italy 🇮🇹 with a heavy focus on data. Some say I should be defined as a "data engineer"!.  
 
 I currently work at [Delft University of Technology](https://www.tudelft.nl/en/) 🇳🇱  
 I'm dedicating my time to a climate science project, involving SQL and NoSQL databases, Docker, Kubernetes, real-time data streaming platforms and ETL tools.
