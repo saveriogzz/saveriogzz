@@ -8,10 +8,10 @@ I'm dedicating my time to a climate science project, involving SQL and NoSQL dat
 
 
 I've opened this GitHub account **3** years ago.  
-Since then, I've pushed **155** commits, opened **32** issues, submitted **18** pull requests and reviewed **6** pull requests!  
+Since then, I've pushed **156** commits, opened **32** issues, submitted **20** pull requests and reviewed **7** pull requests!  
 So far I've received **1** stars ⭐.
 
-I ❤️ open source. In fact, I've been contributing to **24** public repositories!
+I ❤️ open source. In fact, I've been contributing to **25** public repositories!
 
 <!---
 Top 8 most used languages across your repositories:
