@@ -1,11 +1,13 @@
 ### Hi there 👋 I'm Saverio!
 
-<table align="center">
+<table align="left">
 <thead>
 <tr>
 <th style="text-align:center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saveriogzz&theme=tokyonight"></th>
 </tr>
+</table>
 <tr>
+<table align="right">
 <th style="text-align:center"><img src="https://github-readme-stats.vercel.app/api?username=saveriogzz"></th>
 </tr>
 </thead>
