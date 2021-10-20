@@ -1,5 +1,15 @@
 ### Hi there 👋 I'm Saverio!
 
+<table align="center">
+<thead>
+<tr>
+<th style="text-align:center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saveriogzz&theme=tokyonight"></th>
+</tr>
+<tr>
+<th style="text-align:center"><img src="https://github-readme-stats.vercel.app/api?username=saveriogzz"></th>
+</tr>
+</thead>
+</table>
 
 I'm a software developer from Italy 🇮🇹 with a heavy focus on data. Some say I should be defined as a "data engineer"!.  
 
