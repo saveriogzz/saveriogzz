@@ -1,5 +1,15 @@
 ### Hi there 👋 I'm Saverio!
 
+<table align="center">
+<thead>
+<tr>
+<th style="text-align:center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saveriogzz&theme=tokyonight"></th>
+</tr>
+<tr>
+<th style="text-align:center"><img src="https://github-readme-stats.vercel.app/api?username=saveriogzz"></th>
+</tr>
+</thead>
+</table>
 
 I'm a software developer from Italy 🇮🇹 with a heavy focus on data. Some say I should be defined as a "data engineer"!.  
 
@@ -8,7 +18,7 @@ I'm dedicating my time to a climate science project, involving SQL and NoSQL dat
 
 
 I've opened this GitHub account **3** years ago.  
-Since then, I've pushed **192** commits, opened **34** issues, submitted **18** pull requests and reviewed **7**!  
+Since then, I've pushed **193** commits, opened **34** issues, submitted **18** pull requests and reviewed **7**!  
 So far I've received **1** stars ⭐.
 
 I ❤️ open source. In fact, I've been contributing to **24** public repositories!
