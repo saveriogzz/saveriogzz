@@ -1,4 +1,10 @@
 ### Hi there 👋 I'm Saverio!
+I'm a software developer from Italy 🇮🇹 with a heavy focus on data. Some say I should be defined as a "data engineer"!.  
+
+I currently work at [Delft University of Technology](https://www.tudelft.nl/en/) 🇳🇱  
+I'm dedicating my time to a climate science project, involving SQL and NoSQL databases, Docker, Kubernetes, real-time data streaming platforms and ETL tools.
+
+I've opened this GitHub account **3** years ago.  
 
 <table align="left">
 <thead>
@@ -13,14 +19,9 @@
 </thead>
 </table>
 
-I'm a software developer from Italy 🇮🇹 with a heavy focus on data. Some say I should be defined as a "data engineer"!.  
-
-I currently work at [Delft University of Technology](https://www.tudelft.nl/en/) 🇳🇱  
-I'm dedicating my time to a climate science project, involving SQL and NoSQL databases, Docker, Kubernetes, real-time data streaming platforms and ETL tools.
 
 
-I've opened this GitHub account **3** years ago.  
-Since then, I've pushed **194** commits, opened **34** issues, submitted **18** pull requests and reviewed **7**!  
+Since then, I've pushed **195** commits, opened **34** issues, submitted **18** pull requests and reviewed **7**!  
 So far I've received **1** stars ⭐.
 
 I ❤️ open source. In fact, I've been contributing to **24** public repositories!
