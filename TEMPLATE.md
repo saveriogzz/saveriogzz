@@ -6,19 +6,10 @@ I'm dedicating my time to a climate science project, involving SQL and NoSQL dat
 
 I've opened this GitHub account **{{ ACCOUNT_AGE }}** years ago.  
 
-<table align="left">
-<thead>
-<tr>
-<th style="text-align:center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saveriogzz&theme=tokyonight"></th>
-</tr>
-</table>
-<tr>
-<table align="right">
-<th style="text-align:center"><img src="https://github-readme-stats.vercel.app/api?username=saveriogzz"></th>
-</tr>
-</thead>
-</table>
-
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saveriogzz&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saveriogzz&theme=tokyonight" />
+</p>
 
 
 Since then, I've pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests and reviewed **{{ CODE_REVIEWS }}**!  
