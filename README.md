@@ -15,7 +15,7 @@ I've opened this GitHub account **3** years ago.
 Since then, I've pushed **212** commits, opened **37** issues, submitted **18** pull requests and reviewed **7**!  
 So far I've received **1** stars ⭐.
 
-I ❤️ open source. In fact, I've been contributing to **26** public repositories!
+I ❤️ open source. In fact, I've been contributing to **25** public repositories!
 
 <!---
 Top 8 most used languages across your repositories:
