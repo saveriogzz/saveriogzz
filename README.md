@@ -12,10 +12,10 @@ I've opened this GitHub account **3** years ago.
 </p>
 
 
-Since then, I've pushed **226** commits, opened **38** issues, submitted **21** pull requests and reviewed **7**!  
+Since then, I've pushed **226** commits, opened **38** issues, submitted **21** pull requests and reviewed **8**!  
 So far I've received **1** stars ⭐.
 
-I ❤️ open source. In fact, I've been contributing to **26** public repositories!
+I ❤️ open source. In fact, I've been contributing to **25** public repositories!
 
 <!---
 Top 8 most used languages across your repositories:
