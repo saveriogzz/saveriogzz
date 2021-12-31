@@ -12,7 +12,7 @@ I've opened this GitHub account **3** years ago.
 </p>
 
 
-Since then, I've pushed **244** commits, opened **38** issues, submitted **25** pull requests and reviewed **8**!  
+Since then, I've pushed **250** commits, opened **38** issues, submitted **25** pull requests and reviewed **8**!  
 So far I've received **1** stars ⭐.
 
 I ❤️ open source. In fact, I've been contributing to **25** public repositories!
