@@ -6,16 +6,15 @@ I'm dedicating my time to a climate science project, involving SQL and NoSQL dat
 
 I've opened this GitHub account **3** years ago.  
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saveriogzz&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saveriogzz&theme=tokyonight" />
-</p>
-
-
 Since then, I've pushed **261** commits, opened **38** issues, submitted **25** pull requests and reviewed **8**!  
 So far I've received **1** stars ⭐.
 
 I ❤️ open source. In fact, I've been contributing to **25** public repositories!
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saveriogzz&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saveriogzz&theme=tokyonight" />
+</p>
 
 <!---
 Top 8 most used languages across your repositories:
