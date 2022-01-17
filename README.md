@@ -6,7 +6,7 @@ I'm dedicating my time to a climate science project, involving SQL and NoSQL dat
 
 I've opened this GitHub account **3** years ago.  
 
-Since then, I've pushed **268** commits, opened **38** issues, submitted **26** pull requests and reviewed **8**!  
+Since then, I've pushed **269** commits, opened **38** issues, submitted **26** pull requests and reviewed **8**!  
 So far I've received **1** stars ⭐.
 
 I ❤️ open source. In fact, I've been contributing to **24** public repositories!
@@ -15,6 +15,10 @@ I ❤️ open source. In fact, I've been contributing to **24** public repositor
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saveriogzz&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saveriogzz&theme=tokyonight" />
 </p>
+
+## Connect with me:
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />][linkedin]Ask me about anything you found in this repo 💬
+[linkedin]: https://www.linkedin.com/in/saverioguzzo/
 
 <!---
 Top 8 most used languages across your repositories:
