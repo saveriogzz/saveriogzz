@@ -16,6 +16,10 @@ I ❤️ open source. In fact, I've been contributing to **{{ REPOSITORIES_CONTR
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saveriogzz&theme=tokyonight" />
 </p>
 
+## Connect with me:
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />][linkedin]Ask me about anything you found in this repo 💬
+[linkedin]: https://www.linkedin.com/in/saverioguzzo/
+
 <!---
 Top 8 most used languages across your repositories:
 
