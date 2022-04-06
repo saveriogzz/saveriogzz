@@ -6,10 +6,10 @@ I'm dedicating my time to a climate science project, involving SQL and NoSQL dat
 
 I've opened this GitHub account **3** years ago.  
 
-Since then, I've pushed **331** commits, opened **54** issues, submitted **43** pull requests and reviewed **13**!  
+Since then, I've pushed **331** commits, opened **55** issues, submitted **43** pull requests and reviewed **13**!  
 So far I've received **1** stars ⭐.
 
-I ❤️ open source. In fact, I've been contributing to **30** public repositories!
+I ❤️ open source. In fact, I've been contributing to **31** public repositories!
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saveriogzz&show_icons=true&theme=tokyonight" />
