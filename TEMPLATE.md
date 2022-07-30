@@ -1,8 +1,6 @@
 ## Hi there 👋 I'm Saverio!
-I'm a software developer from Italy 🇮🇹 with a heavy focus on data. Some say I should be defined as a "data engineer"!.  
+I'm a Data Engineer from Italy
 
-I currently work at [Delft University of Technology](https://www.tudelft.nl/en/) 🇳🇱  
-I'm dedicating my time to a climate science project, involving SQL and NoSQL databases, Docker, Kubernetes, real-time data streaming platforms and ETL tools.
 
 I've opened this GitHub account **{{ ACCOUNT_AGE }}** years ago.  
 
