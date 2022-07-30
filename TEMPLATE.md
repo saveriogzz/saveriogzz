@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Saverio!
-I'm a Data Engineer!  
+I'm a Data Engineer! :) 
 
 
 I've opened this GitHub account **{{ ACCOUNT_AGE }}** years ago.  
