@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Saverio!
-I'm a Data Engineer from Italy
+I'm a Data Engineer from Italy.
 
 
 I've opened this GitHub account **{{ ACCOUNT_AGE }}** years ago.  
