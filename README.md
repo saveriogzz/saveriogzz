@@ -1,15 +1,13 @@
 ## Hi there 👋 I'm Saverio!
-I'm a software developer from Italy 🇮🇹 with a heavy focus on data. Some say I should be defined as a "data engineer"!.  
+I'm a Data Engineer from Italy.
 
-I currently work at [Delft University of Technology](https://www.tudelft.nl/en/) 🇳🇱  
-I'm dedicating my time to a climate science project, involving SQL and NoSQL databases, Docker, Kubernetes, real-time data streaming platforms and ETL tools.
 
 I've opened this GitHub account **3** years ago.  
 
-Since then, I've pushed **401** commits, opened **57** issues, submitted **45** pull requests and reviewed **13**!  
+Since then, I've pushed **403** commits, opened **58** issues, submitted **45** pull requests and reviewed **13**!  
 So far I've received **3** stars ⭐.
 
-I ❤️ open source. In fact, I've been contributing to **32** public repositories!
+I ❤️ open source. In fact, I've been contributing to **31** public repositories!
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saveriogzz&show_icons=true&theme=tokyonight" />
