@@ -1,10 +1,10 @@
 ## Hi there 👋 I'm Saverio!
-I'm a Data Engineer!  
+I'm a Data Engineer! :) 
 
 
 I've opened this GitHub account **3** years ago.  
 
-Since then, I've pushed **406** commits, opened **58** issues, submitted **45** pull requests and reviewed **13**!  
+Since then, I've pushed **407** commits, opened **58** issues, submitted **45** pull requests and reviewed **13**!  
 So far I've received **3** stars ⭐.
 
 I ❤️ open source. In fact, I've been contributing to **31** public repositories!
